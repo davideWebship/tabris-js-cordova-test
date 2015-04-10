@@ -4,6 +4,6 @@
   "category": "Cordova",
   "main": "app.js",
   "dependencies": {
-    "tabris": "0.9.3"
+    "tabris": "https://tabrisjs.com/downloads/nightly/tabris.tgz"
   }
 }
