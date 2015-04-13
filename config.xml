@@ -14,7 +14,7 @@
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.device-motion" />
     <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="nl.x-services.plugins.toast" version="0.6.2"/>
+    <gap:plugin name="de.appplant.cordova.plugin.badge" version="0.6.2"/>
     <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     <gap:plugin name="nl.x-services.plugins.toast" />
     
