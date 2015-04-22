@@ -9,6 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    
+    <preference name="EnableDeveloperConsole" value="false"/>
 
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.dialogs" />
