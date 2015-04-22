@@ -17,8 +17,7 @@
     <gap:plugin name="de.appplant.cordova.plugin.badge" version="0.6.2"/>
     <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     <gap:plugin name="nl.x-services.plugins.toast" />
-    
-    <preference name="EnableDeveloperConsole" value="true"/>
+
     
     <platform name="android">
         <icon src="resources/android/drawable-mdpi/ic_launcher.png" density="mdpi" />
